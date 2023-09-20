@@ -27,7 +27,7 @@ function Navbar() {
         </li>
         <li>
           <a href="/dummy">
-            <i class="fa-solid fa-table"></i> Dummy
+          <i class="fa-regular fa-circle-question"></i> Dummy
           </a>
         </li>
         {/* <li>
