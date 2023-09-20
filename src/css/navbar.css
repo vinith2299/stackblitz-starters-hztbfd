@@ -1,0 +1,17 @@
+nav {
+  background-color: #64dd17;
+}
+
+nav ul {
+  margin: 0px;
+}
+nav li {
+  display: inline-block;
+}
+nav li a {
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: capitalize;
+}
