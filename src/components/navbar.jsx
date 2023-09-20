@@ -43,12 +43,12 @@ function Navbar() {
         </li> */}
         <li>
           <a href="/errorpage">
-            <i className="fa-solid fa-id-card"></i> errorpage
+            <i class="fa-solid fa-circle-exclamation"></i> errorpage
           </a>
         </li>
         <li>
           <a href="/employeelist">
-            <i className="fa-solid fa-id-card"></i> Employeelist
+          <i class="fa-solid fa-table-list"></i> Employeelist
           </a>
         </li>
         <li>
